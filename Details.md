@@ -59,3 +59,14 @@
   [Catalog For Admission Process](https://www.cs.umd.edu/grad/catalog)
   
   [Tips on Writing SOP](https://www.cs.umd.edu/grad/writing-statement-of-pupose)
+  
+6. ## Georgia Institute Of Technology
+  ### [MS in Computer Science](http://www.cc.gatech.edu/future/masters/mscs)
+  ```python
+    Application Deadline
+    Fall Admission (Only) : Feb. 1
+  ```
+  
+  [Admission Requirements](http://www.cc.gatech.edu/academics/degree-programs/masters/computer-science/admissionreqs)
+  
+  [Apply Here](https://www.applyweb.com/public/newuser.pl?gatechg)
